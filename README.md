@@ -1,5 +1,5 @@
 # secondproject
-I have used Analysis.R, does the following:
+I have used run_analysis.R, does the following:
 I loaded training and test datasets and kept only those columns with a mean or standard deviation
 I merged the columns and then the datasets
 Made columns into factors
